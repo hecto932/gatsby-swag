@@ -5,3 +5,7 @@
  */
 
 // You can delete this file if you're not using it
+// EXECUTE SOMETHING WHEN I AM IN THE CLIENT
+// LOAD LIBRARIES
+// THIS OCCURS AFTER RENDER
+
